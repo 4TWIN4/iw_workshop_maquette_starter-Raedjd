@@ -1,0 +1,51 @@
+
+.navbar
+{
+   background-color:#2e2c2c;
+}
+.nav-link
+{
+   color: #fff;   
+   text-transform: uppercase;
+}
+.navbar-brand
+{
+   background-color: #fff;
+}
+.imagePhone img
+{
+   width: 100%;
+}
+.information
+{
+   width: 100%;
+   background-color: #3a0a1d;
+   color: #fff;
+   padding:5% 0;
+}
+.cercle
+{
+   height: 25px;
+   width: 25px;
+   background-color: #f0bd01;
+   border-radius: 50%;
+   display: inline-block;
+}
+.col-lg-4 {
+
+   padding: 0 6%;
+}
+
+.more
+{
+   padding: 10% 6%;
+  
+}
+.more button
+{margin-left: 80%;
+ background-color: #e4bc01;
+}
+.first-row
+{
+   margin-bottom: 10%;
+}
